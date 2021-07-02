@@ -36,4 +36,4 @@ _**DELETE** /api/greenhouses/{greenhouseUUID}_ \
 _**PUT** /api/greenhouses/{greenhouseUUID}_ \
 Обновление теплицы.
 
-Весь список API controllers и endpoints: [some link].
+Весь список API controllers и endpoints можно посмотреть в Swagger.
