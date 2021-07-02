@@ -7,7 +7,7 @@ AspNetCore backend.
 ## Стек технологий
 Технологии используемые в данном проекте:
 * ASP.NET Core WEB API;
-* Microsoft SQL Server;
+* Microsoft SQL Server (EF Core);
 * Sendgrid API (url: https://sendgrid.com/) для максимально простой отправки писем на почту.
 
 ## Немного о проекте
